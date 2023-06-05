@@ -1,5 +1,4 @@
-{
-  "name": "@coinbase/cbpay-js",
+l  "name": "@coinbase/cbpay-js",
   "version": "1.7.0",
   "license": "MIT",
   "main": "dist/index.js",
